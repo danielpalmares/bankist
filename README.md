@@ -14,11 +14,11 @@
 ---
 
 <p align="center">
-  A simpler banking experience for a simpler life. 💵
+  A simpler banking experience for a simpler life 💵
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://dann-bankist.netlify.app/">
     <img alt="Demo on Netlify" src="https://github.com/danielpalmares/omnifood/blob/master/.github/demo-on-netlify.png">
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 ![Bankist](https://github.com/danielpalmares/bankist/blob/main/img/bankist.png)
 
-You can see more screenshots by my [Drive]()
+You can see more screenshots by my [Drive](https://drive.google.com/drive/folders/1WOuCozEM2RnbrSz054ebbZ1DtATi-cty?usp=sharing)
 
 ---
 
