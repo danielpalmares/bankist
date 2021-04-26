@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="#screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pre-requirements">Pre-requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instructions">Instructions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
@@ -27,23 +27,22 @@
 
 ## Screenshots
 
-![Bankist](https://github.com/danielpalmares/bankist/blob/main/img/bankist.png)
-
-You can see more screenshots by my [Drive](https://drive.google.com/drive/folders/1WOuCozEM2RnbrSz054ebbZ1DtATi-cty?usp=sharing)
+![Layout](https://github.com/danielpalmares/bankist/blob/main/img/bankist.png)
 
 ---
 
 ## Status
 
-Project completely done! ☄️
+Final version done! ☄️
+Without mobile responsivity
 
 ## Pre-requirements
 
-Before getting started, you will need to have installed in your machine these tools: 
+Before getting started, you'll need to have installed in your machine these tools: 
 
 - [Git](https://git-scm.com)
 
-Besides that, it is a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
+Besides that, it's a good idea to have a nice text editor like [VSCode](https://code.visualstudio.com/)
 
 ## Instructions
 
@@ -54,7 +53,7 @@ $ git clone <https://github.com/danielpalmares/bankist>
 # Go to the project folder
 $ cd bankist
 
-# Open the project with Live Server!
+# Open the project with Live Server
 ```
 
 If you don't have the Live Server extension installed, this link is for you [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
